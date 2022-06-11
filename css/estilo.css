@@ -45,7 +45,7 @@ body{
 }
 
 .descuento {
-    height: 40%;
+    height: 30%;
 }
 
 footer {
@@ -63,6 +63,11 @@ footer {
     max-width: 250px;
     border-radius: 70px;
     object-fit: cover;
+}
+
+.titulo {
+    font-family: 'Lobster', cursive;
+    color:HotPink;
 }
 
 /*Animacion*/
